@@ -1,0 +1,5 @@
+====================================================
+          REGISTRO DE ERRORES DE PROCESAMIENTO      
+====================================================
+
+No se registraron errores durante la ejecucion.

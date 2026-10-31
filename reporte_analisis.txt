@@ -1,0 +1,33 @@
+====================================================
+         REPORTE DE ANALISIS DE VENTAS             
+====================================================
+
+1. RESUMEN DE PROCESAMIENTO:
+   - Total registros recibidos: 3
+   - Total registros aceptados: 3
+   - Total registros rechazados: 0
+   - Porcentaje de rechazo: 0.00%
+
+2. INDICADORES GENERALES:
+   - Monto Total Vendido: Q 14400.00
+   - Promedio Monetario por Transaccion: Q 4800.00
+
+3. VENTAS POR SUCURSAL:
+   - Guatemala Centro: Q 10800.00
+   - Antigua: Q 3600.00
+
+4. VENTAS POR MES:
+   - Mes 2026-03: Q 14400.00
+
+5. PRODUCTOS DESTACADOS:
+   - Producto de mayor venta: Laptop Dell (Q 9000.00)
+   - Producto de menor venta: Monitor 27 (Q 1800.00)
+
+6. TOP 3 VENDEDORES:
+   - Carlos Perez: Q 10800.00
+   - Maria Lopez: Q 3600.00
+
+7. CONCLUSIONES ANALÍTICAS:
+   a) El desempeño general refleja una concentracion de ingresos importante en las sucursales principales.
+   b) El porcentaje de inconsistencias en los archivos de origen sugiere implementar validaciones previas en la captura de datos.
+   c) La estrategia comercial debería incentivar a los productos con menor facturación para diversificar el portafolio activo.

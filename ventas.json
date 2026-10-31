@@ -1,0 +1,22 @@
+	[
+  {
+    "idVenta": "V004",
+    "fecha": "2026-03-03",
+    "sucursal": "Guatemala Centro",
+    "codigoProducto": "P103",
+    "producto": "Monitor 27",
+    "cantidad": 1,
+    "precioUnitario": 1800.00,
+    "vendedor": "Carlos Perez"
+  },
+  {
+    "idVenta": "V001",
+    "fecha": "2026-03-01",
+    "sucursal": "Guatemala Centro",
+    "codigoProducto": "P100",
+    "producto": "Laptop Dell",
+    "cantidad": 2,
+    "precioUnitario": 4500.00,
+    "vendedor": "Carlos Perez"
+  }
+]
