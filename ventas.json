@@ -1,4 +1,34 @@
-	[
+[
+  {
+    "idVenta": "V001",
+    "fecha": "2026-03-01",
+    "sucursal": "Guatemala Centro",
+    "codigoProducto": "P100",
+    "producto": "Laptop Dell",
+    "cantidad": 2,
+    "precioUnitario": 4500.00,
+    "vendedor": "Carlos Perez"
+  },
+  {
+    "idVenta": "V002",
+    "fecha": "2026-03-02",
+    "sucursal": "Quetzaltenango",
+    "codigoProducto": "P101",
+    "producto": "Monitor Samsung",
+    "cantidad": 3,
+    "precioUnitario": 1200.00,
+    "vendedor": "Ana Martínez"
+  },
+  {
+    "idVenta": "V003",
+    "fecha": "2026-03-02",
+    "sucursal": "Guatemala Centro",
+    "codigoProducto": "P102",
+    "producto": "Teclado Mecánico Redragon",
+    "cantidad": 5,
+    "precioUnitario": 350.00,
+    "vendedor": "Pedro Gómez"
+  },
   {
     "idVenta": "V004",
     "fecha": "2026-03-03",
@@ -10,13 +40,63 @@
     "vendedor": "Carlos Perez"
   },
   {
-    "idVenta": "V001",
-    "fecha": "2026-03-01",
+    "idVenta": "V106",
+    "fecha": "2026-10-15",
     "sucursal": "Guatemala Centro",
-    "codigoProducto": "P100",
-    "producto": "Laptop Dell",
+    "codigoProducto": "P104",
+    "producto": "Mouse Logitech",
+    "cantidad": 10,
+    "precioUnitario": 250.00,
+    "vendedor": "Pedro Gómez"
+  },
+  {
+    "idVenta": "V107",
+    "fecha": "2026-10-16",
+    "sucursal": "Quetzaltenango",
+    "codigoProducto": "P105",
+    "producto": "Audífonos HyperX",
+    "cantidad": 5,
+    "precioUnitario": 450.00,
+    "vendedor": "Ana Martínez"
+  },
+  {
+    "idVenta": "V108",
+    "fecha": "2026-10-17",
+    "sucursal": "Guatemala Centro",
+    "codigoProducto": "P106",
+    "producto": "Silla Gamer Corsair",
     "cantidad": 2,
-    "precioUnitario": 4500.00,
+    "precioUnitario": 2200.00,
     "vendedor": "Carlos Perez"
+  },
+  {
+    "idVenta": "V109",
+    "fecha": "2026-10-18",
+    "sucursal": "Quetzaltenango",
+    "codigoProducto": "P107",
+    "producto": "Webcam HD Logitech",
+    "cantidad": 8,
+    "precioUnitario": 380.00,
+    "vendedor": "Ana Martínez"
+  },
+  {
+    "idVenta": "V110",
+    "fecha": "2026-10-19",
+    "sucursal": "Guatemala Centro",
+    "codigoProducto": "P108",
+    "producto": "Disco Duro SSD 1TB Kingston",
+    "cantidad": 6,
+    "precioUnitario": 650.00,
+    "vendedor": "Pedro Gómez"
+  },
+  {
+    "idVenta": "V111",
+    "fecha": "2026-10-20",
+    "sucursal": "Quetzaltenango",
+    "codigoProducto": "P109",
+    "producto": "Impresora Epson EcoTank",
+    "cantidad": 4,
+    "precioUnitario": 1950.00,
+    "vendedor": "Ana Martínez"
   }
 ]

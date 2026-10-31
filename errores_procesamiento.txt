@@ -2,4 +2,8 @@
           REGISTRO DE ERRORES DE PROCESAMIENTO      
 ====================================================
 
-No se registraron errores durante la ejecucion.
+ventas.json | ID: V001 | Fallo insercion en BD.
+ventas.json | ID: V004 | Fallo insercion en BD.
+ventas.json | ID: V106 | Fallo insercion en BD.
+ventas.json | ID: V107 | Fallo insercion en BD.
+ventas.xml | ID: V005 | Fallo insercion en BD.
